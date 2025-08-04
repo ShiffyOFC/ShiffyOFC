@@ -2,7 +2,7 @@
 
 You need to plays this games [Hollow Knight - Steam](https://store.steampowered.com/app/367520/Hollow_Knight/),
 [Deltarune - Steam](https://store.steampowered.com/app/1671210/DELTARUNE)
-And this [Dragon Ball Sparking!Zero - Steam](https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/).
+And this one [Dragon Ball Sparking!Zero - Steam](https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/).
 
 ![Asgore, Driving over Dess.](https://i.redd.it/77j1lntpcjbf1.gif)
 
