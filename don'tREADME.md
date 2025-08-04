@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi again
 
-You need to plays this game [Hollow Knight - Steam](https://store.steampowered.com/app/367520/Hollow_Knight/).
+You need to plays this games [Hollow Knight - Steam](https://store.steampowered.com/app/367520/Hollow_Knight/).
 And this [Dragon Ball Sparking!Zero - Steam](https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/).
 
-![Goku UI.](https://giffiles.alphacoders.com/208/208553.gif "UI Goku Transformation.")
+![Asgore, Driving over Dess.](https://i.redd.it/77j1lntpcjbf1.gif)
 
 *I'm normal and new in the programming area.*
 
@@ -12,12 +12,9 @@ And this [Dragon Ball Sparking!Zero - Steam](https://store.steampowered.com/app/
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about anything, i think
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
